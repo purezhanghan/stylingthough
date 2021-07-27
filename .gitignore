@@ -2,4 +2,7 @@
 *.pyc
 *checkpoint
 *.jpeg
+*.jpg
 *.ipynb_checkpoints
+*.zip
+*.h5
